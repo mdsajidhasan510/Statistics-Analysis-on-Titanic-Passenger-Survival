@@ -1,3 +1,7 @@
+# Statistics Analysis on Titanic Passenger Survival
+# Student Name: Md Sajid Hasan
+# Student ID: 24156348
+
 # ===========================
 # IMPORT LIBRARIES
 # ===========================
